@@ -1,2 +1,2 @@
 # Payment-gateway-integration
-phone pe integration
+PhonePe Integration
